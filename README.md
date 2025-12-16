@@ -10,7 +10,7 @@ This app showcases:
 Perfect for portfolio demonstration of front-end + API use.
 
 ## 🛠 Tech Stack
-- C# (back end if used)
+- C#
 - HTML/CSS/JavaScript
 - Google Maps JavaScript API
 
